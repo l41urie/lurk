@@ -1,0 +1,6 @@
+[submodule "contrib/minhook"]
+	path = contrib/minhook
+	url = https://github.com/TsudaKageyu/minhook.git
+[submodule "contrib/luajit"]
+	path = contrib/luajit
+	url = https://github.com/LuaJIT/LuaJIT.git
